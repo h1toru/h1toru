@@ -10,4 +10,6 @@
 [<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" height="32" align="center">](mailto:1htoru@gmail.com)
 [<img src="https://open.spotifycdn.com/cdn/images/favicon.0f31d2ea.ico" height="32" align="center">](https://open.spotify.com/user/a1ze2yvjw484ad134wnzxlx5z)
 [<img src="https://telegram.org/img/t_logo.svg" height="32" align="center">](https://t.me/hitoru)
-[<img src="https://readme-typing-svg.demolab.com/?lines=h1toru&center=true&vCenter=true&font=Google+Sans+Code&color=99FFFFFF&size=20&width=250&duration=8000&multiline=false&background=00000000&pause=0&repeat=false&letterSpacing=3px" height="32" align="right">](#)
+<!--
+[<img src="https://readme-typing-svg.demolab.com/?lines=h1toru&center=true&vCenter=true&font=Google+Sans+Code&color=FFFFFFFF&size=20&width=250&duration=8000&multiline=false&background=00000000&pause=0&repeat=false&letterSpacing=3px" height="32" align="right">](#)
+-->
