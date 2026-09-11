@@ -17,4 +17,4 @@
 <br>
 
 ### Notice
-i'm quite busy with real-world stuff and my laptop has been broken for quite a long time (i haven't had any time to fix it, and i can't afford to buy a new one either). for that reason, the development of some projects, such as **ANXCameraT**, will be delayed until it gets fixed or i brought a new one.
+i'm quite busy with real-world stuff and my laptop has been broken for quite a long time (i haven't had any time to fix it, and i can't afford to buy a new one either). for that reason, the development for some projects, such as **ANXCameraT**, will be delayed until it gets fixed or i get a replacement.
